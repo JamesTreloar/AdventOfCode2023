@@ -6,7 +6,7 @@ namespace AdventOfCode2023;
 
 internal static class Program {
 	public static void Main(string[] args) {
-		Console.WriteLine(Day9.Part1());
-		Console.WriteLine(Day9.Part2());
+		Console.WriteLine(Day11.Part1());
+		Console.WriteLine(Day11.Part2());
 	}
 }
